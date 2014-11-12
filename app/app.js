@@ -1,5 +1,6 @@
 angular.module("deckBuilderApp", [
 	"ngRoute",
+	"ngAnimate",
 	"ui.bootstrap"
 ]);
 
