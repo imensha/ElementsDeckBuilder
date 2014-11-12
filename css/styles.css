@@ -1,0 +1,6 @@
+.deck-card.ng-enter {
+	animation: bounceIn 0.8s;
+}
+.deck-card.ng-leave {
+	animation: fadeOut 0.2s;
+}
