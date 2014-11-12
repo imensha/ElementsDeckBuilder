@@ -1,0 +1,20 @@
+<div class="row">
+	<div class="col-xs-12">
+		<img ng-src="{{'assets/img/' + card.code + '.png'}}" width="72px" alt="" ng-repeat="card in builder.currentDeck track by $index" ng-click="builder.deckRemove($index)">
+	</div>
+</div>
+<div class="row">
+	<p>{{builder.filterElement}}</p>
+	<div class="btn-group">
+		<label class="btn btn-default" ng-model="builder.filterElement" btn-radio="null">All</label>
+		<label class="btn btn-default" ng-model="builder.filterElement" ng-repeat="element in builder.elements" btn-radio="'{{element}}'">{{element}}</label>
+	</div>
+</div>
+<div class="row">
+	<div class="col-xs-12">
+		<span ng-repeat="card in builder.allCards | filter : {element: builder.filterElement}">
+			<img ng-if="builder.hasImage(card)" ng-src="{{'assets/img/' + card.code + '.png'}}" width="72px" ng-click="builder.deckAdd(card)">
+			<img ng-if="!builder.hasImage(card)" ng-src="{{'assets/img/no-image.png'}}" width="72px" ng-click="builder.deckAdd(card)">
+		</span>
+	</div>
+</div>
