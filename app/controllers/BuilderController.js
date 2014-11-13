@@ -1,8 +1,10 @@
 function BuilderController($animate, Cards, Elements) {
 	this.elements = Elements;
+	this.elements.unshift({name: "All", value: ""});
 	this.allCards = Cards;
 	this.currentDeck = [];
-	this.filterElement = null;
+	this.filterElement = this.elements[0].value;
+	this.cardSearch = "";
 
 	this.deckAdd = function(card) {
 		this.currentDeck.push(angular.copy(card));
