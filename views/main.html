@@ -1,17 +1,26 @@
 <div class="row">
-	<div class="col-xs-3">
+	<div class="col-xs-4">
 		<div class="row">
-			<select class="form-control" ng-model="builder.filterElement" ng-options="element.value as element.name for element in builder.elements"></select>
-			<input class="form-control" ng-model="builder.cardSearch" type="text">
+			<div class="col-xs-12">
+				<select class="form-control" ng-model="builder.filterElement" ng-options="element.value as element.name for element in builder.elements" ng-change="builder.elementChange()"></select>
+				<input class="form-control" type="text" ng-model="builder.searchText" ng-change="builder.searchChange()">
+			</div>
 		</div>
 		<div class="row">
-			<span class="card" ng-repeat="card in builder.allCards | filter : {element: builder.filterElement} | filter:builder.cardSearch">
-				<img ng-if="builder.hasImage(card)" ng-src="{{'assets/img/' + card.code + '.png'}}" width="90px" ng-click="builder.deckAdd(card)">
-				<img ng-if="!builder.hasImage(card)" ng-src="{{'assets/img/no-image.png'}}" width="90px" ng-click="builder.deckAdd(card)">
-			</span>
+			<div class="col-xs-12">
+				<span class="card" ng-repeat="card in builder.pageCards">
+					<img ng-if="builder.hasImage(card)" ng-src="{{'assets/img/' + card.code + '.png'}}" width="90px" ng-click="builder.deckAdd(card)">
+					<img ng-if="!builder.hasImage(card)" ng-src="{{'assets/img/no-image.png'}}" width="90px" ng-click="builder.deckAdd(card)">
+				</span>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12">
+				<pagination direction-links="false" boundary-links="true" first-text="&laquo;" last-text="&raquo;"  total-items="builder.filteredCards.length" items-per-page="builder.itemsPerPage" ng-model="builder.currentPage" max-size="builder.maxPages" ng-change="builder.pageChange()" ng-hide="builder.filteredCards.length <= builder.itemsPerPage"></pagination>
+			</div>
 		</div>
 	</div>
-	<div class="col-xs-9">
+	<div class="col-xs-8">
 		<img class="deck-card" ng-src="{{'assets/img/' + card.code + '.png'}}" width="90px" alt="" ng-repeat="card in builder.currentDeck" ng-click="builder.deckRemove($index)">
 	</div>
 </div>
