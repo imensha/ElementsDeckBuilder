@@ -11,7 +11,7 @@ function DeckStoreService(Cards) {
 		}
 	}
 	function deckParse(deckString) {
-		if(typeof deckString === "string") {
+		if(typeof deckString === "string" && deckString.length > 0) {
 			var deck = [];
 			var deckStringCodes = deckString.split(" ");
 			var uniqueCodes = {};
@@ -28,10 +28,13 @@ function DeckStoreService(Cards) {
 			for(var code in uniqueCodes) {
 				var count = uniqueCodes[code];
 				var codeIndex = cardCodes.indexOf(code);
-				for(var i = 0; i < count; i++) {
-					deck.push(angular.copy(Cards[codeIndex]));
+				if(codeIndex > -1) {
+					for(var i = 0; i < count; i++) {
+						deck.push(angular.copy(Cards[codeIndex]));
+					}
 				}
 			}
+			console.log("Deck: ", deck);
 			return deck;
 		}
 	}
@@ -60,9 +63,20 @@ function DeckStoreService(Cards) {
 		}
 	};
 	this.remove = function(name) {
-		// TODO remove deck by name
+		var savedDecks = JSON.parse(localStorage.getItem(deckStoreName));
+		if(savedDecks) {
+			delete savedDecks[name];
+			localStorage.setItem(deckStoreName, JSON.stringify(savedDecks));
+		}
 	};
 	this.list = function() {
-		// TODO return list of saved decks
+		var savedDecks = JSON.parse(localStorage.getItem(deckStoreName));
+		var deckNames = [];
+		if(savedDecks) {
+			for(var name in savedDecks) {
+				deckNames.push(name);
+			}
+		}
+		return deckNames;
 	};
 }

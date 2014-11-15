@@ -33,8 +33,11 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-12">
-				<button class="btn btn-primary" ng-click="builder.saveDeck()">Save</button>
-				<button class="btn btn-primary" ng-click="builder.loadDeck()">Load Current</button>
+				<button class="btn btn-primary" ng-click="builder.saveDeck()" ng-disabled="builder.deck.cards.length == 0">Save</button>
+				<p ng-repeat="name in builder.savedDecks">
+					<button class="btn btn-link" ng-click="builder.loadDeck(name)">{{name}}</button>
+					<button class="btn btn-link" ng-click="builder.removeDeck(name)"><span class="fa fa-remove"></span></button>
+				</p>
 			</div>
 		</div>
 	</div>

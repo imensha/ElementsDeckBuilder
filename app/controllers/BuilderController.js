@@ -1,4 +1,4 @@
-function BuilderController($animate, $filter, Cards, Elements, DeckStore) {
+function BuilderController($animate, $timeout, $filter, Cards, Elements, DeckStore) {
 	this.elements = Elements;
 	this.elements.unshift({name: "All Elements", value: ""});
 	this.allCards = Cards;
@@ -9,6 +9,7 @@ function BuilderController($animate, $filter, Cards, Elements, DeckStore) {
 	};
 	this.filterElement = this.elements[0].value;
 	this.searchText = "";
+	this.savedDecks = DeckStore.list();
 
 	this.deckAdd = function(card) {
 		this.deck.cards.push(angular.copy(card));
@@ -16,6 +17,9 @@ function BuilderController($animate, $filter, Cards, Elements, DeckStore) {
 	this.deckRemove = function(i) {
 		this.deck.cards.splice(i, 1);
 	}
+	this.deckEmpty = function() {
+		this.deck.cards = [];
+	};
 	this.hasImage = function(card) {
 		if(typeof card.image === "undefined" || card.image.search(/^data/) > -1) {
 			return false;
@@ -29,10 +33,19 @@ function BuilderController($animate, $filter, Cards, Elements, DeckStore) {
 	 */
 	this.saveDeck = function() {
 		DeckStore.save(this.deck.name, this.deck.cards);
+		this.savedDecks = DeckStore.list();
 	};
-	this.loadDeck = function() {
-		this.deck.cards = DeckStore.load(this.deck.name);
-	}
+	this.loadDeck = function(name) {
+		this.deck.cards = [];
+		$timeout(function() {
+				this.deck.cards = DeckStore.load(name) || [];
+				this.deck.name = name;
+		}.bind(this), 200);
+	};
+	this.removeDeck = function(name) {
+		DeckStore.remove(name);
+		this.savedDecks = DeckStore.list();
+	};
 
 	/*
 	 * Pagination code
