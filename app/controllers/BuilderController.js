@@ -1,17 +1,21 @@
-function BuilderController($animate, $filter, Cards, Elements) {
+function BuilderController($animate, $filter, Cards, Elements, DeckStore) {
 	this.elements = Elements;
-	this.elements.unshift({name: "All", value: ""});
+	this.elements.unshift({name: "All Elements", value: ""});
 	this.allCards = Cards;
-	this.currentDeck = [];
+	this.filteredCards;
+	this.deck = {
+		name: "untitled deck",
+		cards: []
+	};
 	this.filterElement = this.elements[0].value;
 	this.searchText = "";
 
 	this.deckAdd = function(card) {
-		this.currentDeck.push(angular.copy(card));
-	};
+		this.deck.cards.push(angular.copy(card));
+	}
 	this.deckRemove = function(i) {
-		this.currentDeck.splice(i, 1);
-	};
+		this.deck.cards.splice(i, 1);
+	}
 	this.hasImage = function(card) {
 		if(typeof card.image === "undefined" || card.image.search(/^data/) > -1) {
 			return false;
@@ -20,6 +24,19 @@ function BuilderController($animate, $filter, Cards, Elements) {
 		}
 	};
 
+	/*
+	 * Save/Load deck code
+	 */
+	this.saveDeck = function() {
+		DeckStore.save(this.deck.name, this.deck.cards);
+	};
+	this.loadDeck = function() {
+		this.deck.cards = DeckStore.load(this.deck.name);
+	}
+
+	/*
+	 * Pagination code
+	 */
 	this.currentPage = 1;
 	this.itemsPerPage = 12;
 	this.maxPages = 5;
@@ -46,4 +63,9 @@ function BuilderController($animate, $filter, Cards, Elements) {
 	this.pageChange = function() {
 		this.pageCards = this.filteredCards.slice((this.currentPage-1)*this.itemsPerPage, this.currentPage*this.itemsPerPage);
 	};
+
+	// Mark text of deck title when entered
+	this.markText = function(e) {
+		e.target.select();
+	}
 }

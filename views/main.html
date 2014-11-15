@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-xs-12">
 				<select class="form-control" ng-model="builder.filterElement" ng-options="element.value as element.name for element in builder.elements" ng-change="builder.elementChange()"></select>
-				<input class="form-control" type="text" ng-model="builder.searchText" ng-change="builder.searchChange()">
+				<input class="form-control" type="text" placeholder="Search" ng-model="builder.searchText" ng-change="builder.searchChange()">
 			</div>
 		</div>
 		<div class="row">
@@ -21,6 +21,21 @@
 		</div>
 	</div>
 	<div class="col-xs-8">
-		<img class="deck-card" ng-src="{{'assets/img/' + card.code + '.png'}}" width="90px" alt="" ng-repeat="card in builder.currentDeck" ng-click="builder.deckRemove($index)">
+		<div class="row">
+			<div class="col-xs-12">
+				<input class="form-control" type="text" ng-model="builder.deck.name" ng-focus="builder.markText($event)">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12">
+				<img class="deck-card" ng-src="{{'assets/img/' + card.code + '.png'}}" width="90px" alt="" ng-repeat="card in builder.deck.cards" ng-click="builder.deckRemove($index)">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12">
+				<button class="btn btn-primary" ng-click="builder.saveDeck()">Save</button>
+				<button class="btn btn-primary" ng-click="builder.loadDeck()">Load Current</button>
+			</div>
+		</div>
 	</div>
 </div>
