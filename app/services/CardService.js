@@ -11,7 +11,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20101020181256/elementsthegame/images/3/34/QuantumPillar.png",
 			"code": "4sa"
 		  },
 		  {
@@ -25,7 +24,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20101020181556/elementsthegame/images/c/c6/QuantumTower.png",
 			"code": "6qq"
 		  },
 		  {
@@ -39,7 +37,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20110228205842/elementsthegame/images/4/45/Dagger.png",
 			"code": "4t3"
 		  },
 		  {
@@ -53,7 +50,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20110228205933/elementsthegame/images/5/5a/Dirk.png",
 			"code": "6rj"
 		  },
 		  {
@@ -69,7 +65,6 @@ function CardService() {
 			"cost": {
 			  "amount": "1"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101020182713/elementsthegame/images/a/ad/ShortSword.png",
 			"code": "4t4"
 		  },
 		  {
@@ -85,7 +80,6 @@ function CardService() {
 			"cost": {
 			  "amount": "1"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101020182939/elementsthegame/images/7/73/LongSword.png",
 			"code": "6rk"
 		  },
 		  {
@@ -101,7 +95,6 @@ function CardService() {
 			"cost": {
 			  "amount": "2"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101020183320/elementsthegame/images/8/81/Hammer.png",
 			"code": "4t5"
 		  },
 		  {
@@ -117,7 +110,6 @@ function CardService() {
 			"cost": {
 			  "amount": "2"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101020183511/elementsthegame/images/9/97/Gavel.png",
 			"code": "6rl"
 		  },
 		  {
@@ -133,7 +125,6 @@ function CardService() {
 			"cost": {
 			  "amount": "2"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101020183655/elementsthegame/images/9/98/Short_Bow.png",
 			"code": "4tb"
 		  },
 		  {
@@ -149,7 +140,6 @@ function CardService() {
 			"cost": {
 			  "amount": "2"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101020183742/elementsthegame/images/5/59/Long_Bow.png",
 			"code": "6rr"
 		  },
 		  {
@@ -165,7 +155,6 @@ function CardService() {
 			"cost": {
 			  "amount": "1"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20110204200327/elementsthegame/images/c/cf/Shield.png",
 			"code": "4tc"
 		  },
 		  {
@@ -181,7 +170,6 @@ function CardService() {
 			"cost": {
 			  "amount": "5"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20110204200654/elementsthegame/images/9/9c/TowerShield.png",
 			"code": "6rs"
 		  },
 		  {
@@ -197,7 +185,6 @@ function CardService() {
 			"cost": {
 			  "amount": "1"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101020184240/elementsthegame/images/1/11/Relic.png",
 			"code": "4t9"
 		  },
 		  {
@@ -213,7 +200,6 @@ function CardService() {
 			"cost": {
 			  "amount": "1"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101020184353/elementsthegame/images/e/ec/Relic_%28Upgraded%29.png",
 			"code": "6rp"
 		  },
 		  {
@@ -227,7 +213,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317172532/elementsthegame/images/a/aa/MarkOfEntropyUnupgraded.png",
 			"code": "4sj"
 		  },
 		  {
@@ -241,7 +226,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20120317172622/elementsthegame/images/5/58/MarkOfEntropyUpgraded.png",
 			"code": "6r3"
 		  },
 		  {
@@ -255,7 +239,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20120317172657/elementsthegame/images/2/2c/AmethystPillar.png",
 			"code": "4vc"
 		  },
 		  {
@@ -269,7 +252,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317172725/elementsthegame/images/8/8d/AmethystTower.png",
 			"code": "6ts"
 		  },
 		  {
@@ -283,7 +265,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20120317172755/elementsthegame/images/c/c8/EntropyPendulum.png",
 			"code": "50u"
 		  },
 		  {
@@ -297,7 +278,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317172822/elementsthegame/images/9/94/EntropyPendulumUpgraded.png",
 			"code": "6ve"
 		  },
 		  {
@@ -314,7 +294,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317173523/elementsthegame/images/5/55/MaxwellsDaemon.png",
 			"code": "4vd"
 		  },
 		  {
@@ -331,7 +310,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317173614/elementsthegame/images/1/19/MaxwellsDemonUpgraded.png",
 			"code": "6tt"
 		  },
 		  {
@@ -348,7 +326,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Entropy"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317173724/elementsthegame/images/7/72/Abomination.png",
 			"code": "4ve"
 		  },
 		  {
@@ -365,7 +342,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Entropy"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317173801/elementsthegame/images/f/f6/MicroAbomination.png",
 			"code": "6tu"
 		  },
 		  {
@@ -382,7 +358,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Entropy"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317173837/elementsthegame/images/0/06/PurpleDragon.png",
 			"code": "4vf"
 		  },
 		  {
@@ -399,7 +374,6 @@ function CardService() {
 			  "amount": "11",
 			  "type": "Entropy"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317173904/elementsthegame/images/6/68/AmethystDragon.png",
 			"code": "6tv"
 		  },
 		  {
@@ -416,7 +390,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317173955/elementsthegame/images/e/e0/DissipationShield.png",
 			"code": "4vg"
 		  },
 		  {
@@ -433,7 +406,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Entropy"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317174028/elementsthegame/images/b/bf/DissipationField.png",
 			"code": "6u0"
 		  },
 		  {
@@ -450,7 +422,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Entropy"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120515182959/elementsthegame/images/c/c1/Lycanthrope.png",
 			"code": "4vh"
 		  },
 		  {
@@ -467,7 +438,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120515183057/elementsthegame/images/f/f5/Werewolf.png",
 			"code": "6u1"
 		  },
 		  {
@@ -484,7 +454,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Entropy"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317174155/elementsthegame/images/c/c1/ChaosSeed.png",
 			"code": "4vi"
 		  },
 		  {
@@ -501,7 +470,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317174223/elementsthegame/images/7/73/ChaosPower.png",
 			"code": "6u2"
 		  },
 		  {
@@ -515,7 +483,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20120414172952/elementsthegame/images/0/0b/Nova.png",
 			"code": "4vj"
 		  },
 		  {
@@ -532,7 +499,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Entropy"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120414173452/elementsthegame/images/3/30/Supernova.png",
 			"code": "6u3"
 		  },
 		  {
@@ -549,7 +515,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Entropy"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317174400/elementsthegame/images/e/e5/Mutation.png",
 			"code": "4vk"
 		  },
 		  {
@@ -566,7 +531,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Entropy"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317174434/elementsthegame/images/9/93/ImprovedMutation.png",
 			"code": "6u4"
 		  },
 		  {
@@ -583,7 +547,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317174505/elementsthegame/images/a/a2/FallenElf.png",
 			"code": "4vm"
 		  },
 		  {
@@ -600,7 +563,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Entropy"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317174539/elementsthegame/images/f/ff/FallenDruid.png",
 			"code": "6u6"
 		  },
 		  {
@@ -617,7 +579,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317174615/elementsthegame/images/c/cd/Antimatter.png",
 			"code": "4vn"
 		  },
 		  {
@@ -634,7 +595,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317174650/elementsthegame/images/d/d0/ImprovedAntimatter.png",
 			"code": "6u7"
 		  },
 		  {
@@ -651,7 +611,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317174805/elementsthegame/images/1/1f/ButterflyEffect.png",
 			"code": "4vo"
 		  },
 		  {
@@ -668,7 +627,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317174840/elementsthegame/images/5/5f/ButterflyEffectUpgraded.png",
 			"code": "6u8"
 		  },
 		  {
@@ -685,7 +643,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Entropy"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317174912/elementsthegame/images/b/b7/Pandemonium.png",
 			"code": "4vp"
 		  },
 		  {
@@ -702,7 +659,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317174943/elementsthegame/images/1/15/PandemoniumUpgraded.png",
 			"code": "6u9"
 		  },
 		  {
@@ -719,7 +675,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Entropy"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20111013173809/elementsthegame/images/0/0f/Schr%C3%B6dingersCat.png",
 			"code": "4vq"
 		  },
 		  {
@@ -736,7 +691,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111013173909/elementsthegame/images/c/ce/Schr%C3%B6dingersCatUpgraded.png",
 			"code": "6ua"
 		  },
 		  {
@@ -753,7 +707,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Entropy"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317175320/elementsthegame/images/d/dd/Discord.png",
 			"code": "4vl"
 		  },
 		  {
@@ -770,7 +723,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317175400/elementsthegame/images/7/72/DiscordUpgraded.png",
 			"code": "6u5"
 		  },
 		  {
@@ -787,7 +739,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20130119072546/elementsthegame/images/d/dd/ShardOfSerendipity.png",
 			"code": "4th"
 		  },
 		  {
@@ -804,7 +755,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Entropy"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20130119072611/elementsthegame/images/f/f8/ShardOfSerendipity_Upped.png",
 			"code": "6s1"
 		  },
 		  {
@@ -821,7 +771,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Entropy"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317175434/elementsthegame/images/a/ab/PurpleNymph.png",
 			"code": "500"
 		  },
 		  {
@@ -838,7 +787,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Entropy"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317175505/elementsthegame/images/e/e3/PurpleNymphElite.png",
 			"code": "6ug"
 		  },
 		  {
@@ -852,7 +800,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317142232/elementsthegame/images/7/70/MarkOfDeathUnupgraded.png",
 			"code": "4sk"
 		  },
 		  {
@@ -866,7 +813,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20120317142313/elementsthegame/images/2/23/MarkOfDeathUpgraded.png",
 			"code": "6r4"
 		  },
 		  {
@@ -880,7 +826,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20120317142350/elementsthegame/images/9/9b/BonePillar.png",
 			"code": "52g"
 		  },
 		  {
@@ -894,7 +839,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317142720/elementsthegame/images/e/e4/BoneTower.png",
 			"code": "710"
 		  },
 		  {
@@ -908,7 +852,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20120317143042/elementsthegame/images/a/ac/DeathPendulum.png",
 			"code": "542"
 		  },
 		  {
@@ -922,7 +865,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120317143113/elementsthegame/images/2/20/DeathPendulumUpgraded.png",
 			"code": "72i"
 		  },
 		  {
@@ -939,7 +881,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Death"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317143311/elementsthegame/images/b/b1/BoneDragon.png",
 			"code": "52h"
 		  },
 		  {
@@ -956,7 +897,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Death"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317143343/elementsthegame/images/a/aa/IvoryDragon.png",
 			"code": "711"
 		  },
 		  {
@@ -973,7 +913,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Death"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317143415/elementsthegame/images/1/1d/Virus.png",
 			"code": "52i"
 		  },
 		  {
@@ -990,7 +929,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317143444/elementsthegame/images/4/4b/Retrovirus.png",
 			"code": "712"
 		  },
 		  {
@@ -1007,7 +945,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317143517/elementsthegame/images/9/90/FleshSpider.png",
 			"code": "52j"
 		  },
 		  {
@@ -1024,7 +961,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Death"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317143553/elementsthegame/images/5/5e/FleshRecluse.png",
 			"code": "713"
 		  },
 		  {
@@ -1041,7 +977,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317143642/elementsthegame/images/0/01/Vulture.png",
 			"code": "52k"
 		  },
 		  {
@@ -1058,7 +993,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Death"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317143713/elementsthegame/images/0/04/Condor.png",
 			"code": "714"
 		  },
 		  {
@@ -1075,7 +1009,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317143749/elementsthegame/images/b/b4/SkullShield.png",
 			"code": "52l"
 		  },
 		  {
@@ -1092,7 +1025,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Death"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317143819/elementsthegame/images/0/0b/SkullBuckler.png",
 			"code": "715"
 		  },
 		  {
@@ -1109,7 +1041,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Death"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317143849/elementsthegame/images/2/23/Skeleton.png",
 			"code": "52m"
 		  },
 		  {
@@ -1126,7 +1057,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317143925/elementsthegame/images/c/c5/EliteSkeleton.png",
 			"code": "716"
 		  },
 		  {
@@ -1143,7 +1073,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Death"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317144021/elementsthegame/images/9/98/Boneyard.png",
 			"code": "52n"
 		  },
 		  {
@@ -1160,7 +1089,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317144051/elementsthegame/images/d/d5/Graveyard.png",
 			"code": "717"
 		  },
 		  {
@@ -1177,7 +1105,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Death"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317144123/elementsthegame/images/0/05/Poison.png",
 			"code": "52o"
 		  },
 		  {
@@ -1194,7 +1121,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317144152/elementsthegame/images/b/b7/DeadlyPoison.png",
 			"code": "718"
 		  },
 		  {
@@ -1211,7 +1137,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317144228/elementsthegame/images/6/6a/Plague.png",
 			"code": "52p"
 		  },
 		  {
@@ -1228,7 +1153,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317144258/elementsthegame/images/f/fc/ImprovedPlague.png",
 			"code": "719"
 		  },
 		  {
@@ -1245,7 +1169,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Death"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317144346/elementsthegame/images/c/c0/BoneWall.png",
 			"code": "52r"
 		  },
 		  {
@@ -1262,7 +1185,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Death"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317144421/elementsthegame/images/6/6f/BoneWallUpgraded.png",
 			"code": "71b"
 		  },
 		  {
@@ -1279,7 +1201,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Death"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120414172419/elementsthegame/images/2/2e/Aflatoxin.png",
 			"code": "52s"
 		  },
 		  {
@@ -1296,7 +1217,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120414172634/elementsthegame/images/1/13/AflatoxinUpgraded.png",
 			"code": "71c"
 		  },
 		  {
@@ -1313,7 +1233,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Death"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317144633/elementsthegame/images/7/70/Mummy.png",
 			"code": "52t"
 		  },
 		  {
@@ -1330,7 +1249,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Death"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317144700/elementsthegame/images/c/c3/EliteMummy.png",
 			"code": "71d"
 		  },
 		  {
@@ -1347,7 +1265,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Death"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317144751/elementsthegame/images/e/ed/Deathstalker.png",
 			"code": "52u"
 		  },
 		  {
@@ -1364,7 +1281,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317144823/elementsthegame/images/6/6e/DeathstalkerUpgraded.png",
 			"code": "71e"
 		  },
 		  {
@@ -1378,7 +1294,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120317144855/elementsthegame/images/c/ca/SoulCatcher.png",
 			"code": "52v"
 		  },
 		  {
@@ -1392,7 +1307,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120317144931/elementsthegame/images/9/95/SoulCatcherUpgraded.png",
 			"code": "71f"
 		  },
 		  {
@@ -1409,7 +1323,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Death"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317145004/elementsthegame/images/c/ce/Arsenic.png",
 			"code": "52q"
 		  },
 		  {
@@ -1426,7 +1339,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Death"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317145036/elementsthegame/images/b/b1/ArsenicUpgraded.png",
 			"code": "71a"
 		  },
 		  {
@@ -1443,7 +1355,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Death"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20130119072100/elementsthegame/images/b/bb/ShardOfSacrifice.png",
 			"code": "4td"
 		  },
 		  {
@@ -1460,7 +1371,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Death"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20130119072114/elementsthegame/images/4/45/ShardOfSacrifice_Upped.png",
 			"code": "6rt"
 		  },
 		  {
@@ -1477,7 +1387,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Death"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120515181003/elementsthegame/images/8/88/GreyNymph.png",
 			"code": "534"
 		  },
 		  {
@@ -1494,7 +1403,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Death"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120515181153/elementsthegame/images/e/e6/DeathNymph.png",
 			"code": "71k"
 		  },
 		  {
@@ -1508,7 +1416,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20120317154438/elementsthegame/images/b/b9/MarkOfGravityUnupgraded.png",
 			"code": "4sl"
 		  },
 		  {
@@ -1522,7 +1429,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317154510/elementsthegame/images/2/2b/MarkOfGravityUpgraded.png",
 			"code": "6r5"
 		  },
 		  {
@@ -1536,7 +1442,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20101106152741/elementsthegame/images/7/76/GravityPillar.png",
 			"code": "55k"
 		  },
 		  {
@@ -1550,7 +1455,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20101106152928/elementsthegame/images/0/02/GravityTower.png",
 			"code": "744"
 		  },
 		  {
@@ -1564,7 +1468,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101106153520/elementsthegame/images/e/eb/GravityPendulum.png",
 			"code": "576"
 		  },
 		  {
@@ -1578,7 +1481,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20101106153850/elementsthegame/images/c/cf/GravityPendulumUpgraded.png",
 			"code": "75m"
 		  },
 		  {
@@ -1595,7 +1497,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120515182712/elementsthegame/images/2/2c/SapphireCharger.png",
 			"code": "55l"
 		  },
 		  {
@@ -1612,7 +1513,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120515182823/elementsthegame/images/3/39/EliteCharger.png",
 			"code": "745"
 		  },
 		  {
@@ -1629,7 +1529,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101106155229/elementsthegame/images/b/b3/Armagio.png",
 			"code": "55m"
 		  },
 		  {
@@ -1646,7 +1545,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Gravity"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101106155416/elementsthegame/images/2/25/EliteArmagio.png",
 			"code": "746"
 		  },
 		  {
@@ -1663,7 +1561,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Gravity"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101106155825/elementsthegame/images/c/c8/GravitonMercenary.png",
 			"code": "55n"
 		  },
 		  {
@@ -1680,7 +1577,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101106160143/elementsthegame/images/a/ad/GravitonGuard.png",
 			"code": "747"
 		  },
 		  {
@@ -1697,7 +1593,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120515182444/elementsthegame/images/7/7f/ColossalDragon.png",
 			"code": "55o"
 		  },
 		  {
@@ -1714,7 +1609,6 @@ function CardService() {
 			  "amount": "11",
 			  "type": "Gravity"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120515182611/elementsthegame/images/d/d7/MassiveDragon.png",
 			"code": "748"
 		  },
 		  {
@@ -1731,7 +1625,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101106161503/elementsthegame/images/a/ac/GravityShield.png",
 			"code": "55p"
 		  },
 		  {
@@ -1748,7 +1641,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101106161751/elementsthegame/images/c/cf/GravityShieldUpgraded.png",
 			"code": "749"
 		  },
 		  {
@@ -1765,7 +1657,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Gravity"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101106162100/elementsthegame/images/d/dd/Momentum.png",
 			"code": "55q"
 		  },
 		  {
@@ -1782,7 +1673,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Gravity"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101106162257/elementsthegame/images/e/eb/Unstoppable.png",
 			"code": "74a"
 		  },
 		  {
@@ -1799,7 +1689,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Gravity"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20100703132849/elementsthegame/images/3/32/Otyugh.png",
 			"code": "55r"
 		  },
 		  {
@@ -1816,7 +1705,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Gravity"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20111013175541/elementsthegame/images/b/b6/EliteOtyugh.png",
 			"code": "74b"
 		  },
 		  {
@@ -1833,7 +1721,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Gravity"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101106162726/elementsthegame/images/7/7e/GravityPull.png",
 			"code": "55t"
 		  },
 		  {
@@ -1850,7 +1737,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Gravity"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101106162857/elementsthegame/images/8/82/GravityForce.png",
 			"code": "74d"
 		  },
 		  {
@@ -1867,7 +1753,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Gravity"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101106163301/elementsthegame/images/6/61/GravitonFireEater.png",
 			"code": "55u"
 		  },
 		  {
@@ -1884,7 +1769,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101106163436/elementsthegame/images/4/4b/GravitonFiremaster.png",
 			"code": "74e"
 		  },
 		  {
@@ -1901,7 +1785,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Gravity"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101106163759/elementsthegame/images/b/ba/BlackHole.png",
 			"code": "55v"
 		  },
 		  {
@@ -1918,7 +1801,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Gravity"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101106163916/elementsthegame/images/4/4c/BlackHoleElite.png",
 			"code": "74f"
 		  },
 		  {
@@ -1935,7 +1817,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101220144854/elementsthegame/images/3/36/Chimera.png",
 			"code": "560"
 		  },
 		  {
@@ -1952,7 +1833,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Gravity"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101220145048/elementsthegame/images/4/40/ChimeraUpgraded.png",
 			"code": "74g"
 		  },
 		  {
@@ -1969,7 +1849,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Gravity"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101220130807/elementsthegame/images/5/51/Catapult.png",
 			"code": "561"
 		  },
 		  {
@@ -1986,7 +1865,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Gravity"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101220131042/elementsthegame/images/c/cf/Trebuchet.png",
 			"code": "74h"
 		  },
 		  {
@@ -2003,7 +1881,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Gravity"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20110202182419/elementsthegame/images/5/5d/Acceleration.png",
 			"code": "562"
 		  },
 		  {
@@ -2020,7 +1897,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20110202183815/elementsthegame/images/a/ab/Overdrive.png",
 			"code": "74i"
 		  },
 		  {
@@ -2037,7 +1913,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Gravity"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317154608/elementsthegame/images/8/88/Titan.png",
 			"code": "55s"
 		  },
 		  {
@@ -2054,7 +1929,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Gravity"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317154639/elementsthegame/images/4/48/TitanUpgraded.png",
 			"code": "74c"
 		  },
 		  {
@@ -2071,7 +1945,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Gravity"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20130119072251/elementsthegame/images/9/90/ShardOfFocus.png",
 			"code": "4ti"
 		  },
 		  {
@@ -2088,7 +1961,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Gravity"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20130119072310/elementsthegame/images/f/f8/ShardOfFocusUpgraded.png",
 			"code": "6s2"
 		  },
 		  {
@@ -2105,7 +1977,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Gravity"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317154712/elementsthegame/images/e/ec/AmberNymph.png",
 			"code": "568"
 		  },
 		  {
@@ -2122,7 +1993,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Gravity"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317154744/elementsthegame/images/5/52/GravityNymph.png",
 			"code": "74o"
 		  },
 		  {
@@ -2136,7 +2006,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20111120170238/elementsthegame/images/9/92/MarkOfEarthUnupgraded.png",
 			"code": "4sm"
 		  },
 		  {
@@ -2150,7 +2019,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20111120170418/elementsthegame/images/f/f3/MarkOfEarthUpgraded.png",
 			"code": "6r6"
 		  },
 		  {
@@ -2164,7 +2032,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20111120170827/elementsthegame/images/7/73/StonePillar.png",
 			"code": "58o"
 		  },
 		  {
@@ -2178,7 +2045,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20111120171017/elementsthegame/images/7/7b/Stone_tower.png",
 			"code": "778"
 		  },
 		  {
@@ -2192,7 +2058,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20111120171439/elementsthegame/images/c/cf/EarthPendulum.png",
 			"code": "5aa"
 		  },
 		  {
@@ -2206,7 +2071,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20111120171547/elementsthegame/images/b/bd/Earth_Pendulum_%28Upgraded%29.png",
 			"code": "78q"
 		  },
 		  {
@@ -2223,7 +2087,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Earth"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20111120172046/elementsthegame/images/f/ff/Antlion.png",
 			"code": "58p"
 		  },
 		  {
@@ -2240,7 +2103,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Earth"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20111120172216/elementsthegame/images/2/2c/Elite_antlion.png",
 			"code": "779"
 		  },
 		  {
@@ -2257,7 +2119,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Earth"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20111120172809/elementsthegame/images/d/d3/HematiteGolem.png",
 			"code": "58q"
 		  },
 		  {
@@ -2274,7 +2135,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Earth"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20111120172935/elementsthegame/images/5/51/SteelGolem.png",
 			"code": "77a"
 		  },
 		  {
@@ -2291,7 +2151,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111120173516/elementsthegame/images/f/f7/StoneDragon.png",
 			"code": "58r"
 		  },
 		  {
@@ -2308,7 +2167,6 @@ function CardService() {
 			  "amount": "12",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111120173552/elementsthegame/images/c/c6/Basalt_dragon.png",
 			"code": "77b"
 		  },
 		  {
@@ -2325,7 +2183,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Earth"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20111120174048/elementsthegame/images/e/e2/TitaniumShield.png",
 			"code": "58s"
 		  },
 		  {
@@ -2342,7 +2199,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Earth"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20111120174119/elementsthegame/images/1/19/Diamond_shield.png",
 			"code": "77c"
 		  },
 		  {
@@ -2359,7 +2215,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111120174548/elementsthegame/images/e/ee/PlateArmor.png",
 			"code": "58t"
 		  },
 		  {
@@ -2376,7 +2231,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111120174627/elementsthegame/images/3/39/HeavyArmor.png",
 			"code": "77d"
 		  },
 		  {
@@ -2393,7 +2247,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Earth"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20111120175035/elementsthegame/images/d/d7/GnomeRider.png",
 			"code": "58u"
 		  },
 		  {
@@ -2407,7 +2260,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20111120175101/elementsthegame/images/a/ab/GnomeGemfinder.png",
 			"code": "77e"
 		  },
 		  {
@@ -2424,7 +2276,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Earth"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20111120175433/elementsthegame/images/e/ea/Graboid.png",
 			"code": "590"
 		  },
 		  {
@@ -2441,7 +2292,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111120175459/elementsthegame/images/c/c4/Elite_graboid.png",
 			"code": "77g"
 		  },
 		  {
@@ -2458,7 +2308,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Earth"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20111120175841/elementsthegame/images/5/5e/Shrieker.png",
 			"code": "591"
 		  },
 		  {
@@ -2475,7 +2324,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Earth"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20111120175913/elementsthegame/images/2/23/Elite_shrieker.png",
 			"code": "77h"
 		  },
 		  {
@@ -2492,7 +2340,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111120180352/elementsthegame/images/3/37/EnchantArtifact.png",
 			"code": "592"
 		  },
 		  {
@@ -2509,7 +2356,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111120180528/elementsthegame/images/1/18/ProtectArtifact.png",
 			"code": "77i"
 		  },
 		  {
@@ -2526,7 +2372,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Earth"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20111120180904/elementsthegame/images/2/2a/Earthquake.png",
 			"code": "593"
 		  },
 		  {
@@ -2543,7 +2388,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111120180957/elementsthegame/images/3/3b/Quicksand.png",
 			"code": "77j"
 		  },
 		  {
@@ -2560,7 +2404,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Earth"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20111120181235/elementsthegame/images/7/77/StoneSkin.png",
 			"code": "594"
 		  },
 		  {
@@ -2577,7 +2420,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Earth"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20111120181316/elementsthegame/images/6/6f/GraniteSkin.png",
 			"code": "77k"
 		  },
 		  {
@@ -2594,7 +2436,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Earth"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20111120181833/elementsthegame/images/6/6f/BasiliskBlood.png",
 			"code": "595"
 		  },
 		  {
@@ -2611,7 +2452,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111120181900/elementsthegame/images/f/f6/BasiliskBloodElite.png",
 			"code": "77l"
 		  },
 		  {
@@ -2628,7 +2468,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Earth"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20111120182200/elementsthegame/images/d/d1/IridiumWarden.png",
 			"code": "596"
 		  },
 		  {
@@ -2645,7 +2484,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20111120182218/elementsthegame/images/7/79/VanadiumWarden.png",
 			"code": "77m"
 		  },
 		  {
@@ -2662,7 +2500,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Earth"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20111120182556/elementsthegame/images/2/20/Pulverizer.png",
 			"code": "58v"
 		  },
 		  {
@@ -2679,7 +2516,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Earth"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20111120182615/elementsthegame/images/4/4d/PulverizerUpgraded.png",
 			"code": "77f"
 		  },
 		  {
@@ -2696,7 +2532,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20130119070734/elementsthegame/images/2/22/ShardOfIntegrity.png",
 			"code": "4tk"
 		  },
 		  {
@@ -2713,7 +2548,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20130119070814/elementsthegame/images/3/35/ShardOfIntegrityUpgraded.png",
 			"code": "6s4"
 		  },
 		  {
@@ -2730,7 +2564,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120514182317/elementsthegame/images/c/cc/AuburnNymph.png",
 			"code": "59c"
 		  },
 		  {
@@ -2747,7 +2580,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Earth"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120514182533/elementsthegame/images/2/2b/EarthNymph.png",
 			"code": "77s"
 		  },
 		  {
@@ -2761,7 +2593,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120317145401/elementsthegame/images/9/9e/MarkOfLifeUnupgraded.png",
 			"code": "4sn"
 		  },
 		  {
@@ -2775,7 +2606,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20120317145439/elementsthegame/images/4/41/MarkOfLifeUpgraded.png",
 			"code": "6r7"
 		  },
 		  {
@@ -2789,7 +2619,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317145551/elementsthegame/images/3/30/EmeraldPillar.png",
 			"code": "5bs"
 		  },
 		  {
@@ -2803,7 +2632,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120317145625/elementsthegame/images/1/12/EmeraldTower.png",
 			"code": "7ac"
 		  },
 		  {
@@ -2817,7 +2645,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120317145658/elementsthegame/images/6/6d/LifePendulum.png",
 			"code": "5de"
 		  },
 		  {
@@ -2831,7 +2658,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317145732/elementsthegame/images/9/9c/LifePendulumUpgraded.png",
 			"code": "7bu"
 		  },
 		  {
@@ -2848,7 +2674,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Life"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317145823/elementsthegame/images/9/90/EmeraldDragon.png",
 			"code": "5bt"
 		  },
 		  {
@@ -2865,7 +2690,6 @@ function CardService() {
 			  "amount": "12",
 			  "type": "Life"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317145931/elementsthegame/images/2/2b/JadeDragon.png",
 			"code": "7ad"
 		  },
 		  {
@@ -2882,7 +2706,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Life"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317150003/elementsthegame/images/f/f1/HornedFrog.png",
 			"code": "5bu"
 		  },
 		  {
@@ -2899,7 +2722,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Life"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317150048/elementsthegame/images/0/01/GiantFrog.png",
 			"code": "7ae"
 		  },
 		  {
@@ -2916,7 +2738,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Life"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317150118/elementsthegame/images/a/a3/Rustler.png",
 			"code": "5bv"
 		  },
 		  {
@@ -2933,7 +2754,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Life"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317150147/elementsthegame/images/9/95/LeafDragon.png",
 			"code": "7af"
 		  },
 		  {
@@ -2950,7 +2770,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Life"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317150229/elementsthegame/images/0/09/Cockatrice.png",
 			"code": "5c0"
 		  },
 		  {
@@ -2967,7 +2786,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Life"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317150256/elementsthegame/images/6/6b/EliteCockatrice.png",
 			"code": "7ag"
 		  },
 		  {
@@ -2984,7 +2802,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Life"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317150544/elementsthegame/images/d/d5/ForestSpirit.png",
 			"code": "5c1"
 		  },
 		  {
@@ -3001,7 +2818,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Life"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317150621/elementsthegame/images/5/57/ForestSpectre.png",
 			"code": "7ah"
 		  },
 		  {
@@ -3018,7 +2834,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Life"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317150707/elementsthegame/images/6/6e/Heal.png",
 			"code": "5c2"
 		  },
 		  {
@@ -3035,7 +2850,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Life"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317150737/elementsthegame/images/0/0b/ImprovedHeal.png",
 			"code": "7ai"
 		  },
 		  {
@@ -3052,7 +2866,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Life"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317150822/elementsthegame/images/a/a0/ThornCarapace.png",
 			"code": "5c3"
 		  },
 		  {
@@ -3069,7 +2882,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Life"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317150901/elementsthegame/images/b/ba/SpineCarapace.png",
 			"code": "7aj"
 		  },
 		  {
@@ -3086,7 +2898,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Life"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317150937/elementsthegame/images/2/2b/EmeraldShield.png",
 			"code": "5c4"
 		  },
 		  {
@@ -3103,7 +2914,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Life"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317151013/elementsthegame/images/7/76/JadeShield.png",
 			"code": "7ak"
 		  },
 		  {
@@ -3120,7 +2930,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Life"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317151126/elementsthegame/images/c/c2/EmpathicBond.png",
 			"code": "5c6"
 		  },
 		  {
@@ -3137,7 +2946,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Life"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317151159/elementsthegame/images/0/03/FeralBond.png",
 			"code": "7am"
 		  },
 		  {
@@ -3154,7 +2962,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Life"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317151453/elementsthegame/images/e/e3/Adrenaline.png",
 			"code": "5c7"
 		  },
 		  {
@@ -3171,7 +2978,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Life"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317151525/elementsthegame/images/e/e8/Epinephrine.png",
 			"code": "7an"
 		  },
 		  {
@@ -3188,7 +2994,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Life"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317151624/elementsthegame/images/7/74/ForestScorpion.png",
 			"code": "5c8"
 		  },
 		  {
@@ -3205,7 +3010,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Life"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317151656/elementsthegame/images/a/ab/Scorpion.png",
 			"code": "7ao"
 		  },
 		  {
@@ -3222,7 +3026,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Life"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317151737/elementsthegame/images/3/3a/Mitosis.png",
 			"code": "5c9"
 		  },
 		  {
@@ -3239,7 +3042,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Life"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317151806/elementsthegame/images/9/93/MitosisUpgraded.png",
 			"code": "7ap"
 		  },
 		  {
@@ -3256,7 +3058,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Life"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317151850/elementsthegame/images/b/bf/DruidicStaff.png",
 			"code": "5c5"
 		  },
 		  {
@@ -3273,7 +3074,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Life"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317151921/elementsthegame/images/6/66/JadeStaff.png",
 			"code": "7al"
 		  },
 		  {
@@ -3290,7 +3090,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Life"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20130119070534/elementsthegame/images/0/0a/ShardOfGratitude.png",
 			"code": "4t7"
 		  },
 		  {
@@ -3307,7 +3106,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Life"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20130119070622/elementsthegame/images/f/f6/ShardOfGratitude_Upped.png",
 			"code": "6rn"
 		  },
 		  {
@@ -3324,7 +3122,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Life"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120515175938/elementsthegame/images/6/6f/GreenNymph.png",
 			"code": "5cg"
 		  },
 		  {
@@ -3341,7 +3138,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Life"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120515180110/elementsthegame/images/1/14/LifeNymph.png",
 			"code": "7b0"
 		  },
 		  {
@@ -3355,7 +3151,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20120316181444/elementsthegame/images/e/e4/MarkOfFireUnupgraded.png",
 			"code": "4so"
 		  },
 		  {
@@ -3369,7 +3164,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20120316181624/elementsthegame/images/f/fe/MarkOfFireUpgraded.png",
 			"code": "6r8"
 		  },
 		  {
@@ -3383,7 +3177,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101024173718/elementsthegame/images/b/bb/BurningPillar.png",
 			"code": "5f0"
 		  },
 		  {
@@ -3397,7 +3190,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20101024173917/elementsthegame/images/b/b2/BurningTower.png",
 			"code": "7dg"
 		  },
 		  {
@@ -3411,7 +3203,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20101024174518/elementsthegame/images/f/fa/FirePendulum.png",
 			"code": "5gi"
 		  },
 		  {
@@ -3425,7 +3216,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20101024174656/elementsthegame/images/3/3c/FirePendulumUpgraded.png",
 			"code": "7f2"
 		  },
 		  {
@@ -3442,7 +3232,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Fire"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101024175241/elementsthegame/images/2/22/AshEater.png",
 			"code": "5f1"
 		  },
 		  {
@@ -3459,7 +3248,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Fire"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101024175546/elementsthegame/images/f/f2/BrimstoneEater.png",
 			"code": "7dh"
 		  },
 		  {
@@ -3476,7 +3264,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5f2"
 		  },
 		  {
@@ -3493,7 +3280,6 @@ function CardService() {
 			  "amount": "12",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7di"
 		  },
 		  {
@@ -3510,7 +3296,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5f3"
 		  },
 		  {
@@ -3527,7 +3312,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7dj"
 		  },
 		  {
@@ -3544,7 +3328,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5f4"
 		  },
 		  {
@@ -3561,7 +3344,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7dk"
 		  },
 		  {
@@ -3578,7 +3360,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5f5"
 		  },
 		  {
@@ -3595,7 +3376,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7dl"
 		  },
 		  {
@@ -3612,7 +3392,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5f6"
 		  },
 		  {
@@ -3629,7 +3408,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7dm"
 		  },
 		  {
@@ -3646,7 +3424,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5f8"
 		  },
 		  {
@@ -3663,7 +3440,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7do"
 		  },
 		  {
@@ -3677,7 +3453,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5f9"
 		  },
 		  {
@@ -3691,7 +3466,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7dp"
 		  },
 		  {
@@ -3708,7 +3482,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5fa"
 		  },
 		  {
@@ -3725,7 +3498,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7dq"
 		  },
 		  {
@@ -3742,7 +3514,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5fb"
 		  },
 		  {
@@ -3759,7 +3530,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7dr"
 		  },
 		  {
@@ -3776,7 +3546,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5fc"
 		  },
 		  {
@@ -3793,7 +3562,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7ds"
 		  },
 		  {
@@ -3810,7 +3578,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5fe"
 		  },
 		  {
@@ -3827,7 +3594,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7du"
 		  },
 		  {
@@ -3844,7 +3610,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5f7"
 		  },
 		  {
@@ -3861,7 +3626,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7dn"
 		  },
 		  {
@@ -3878,7 +3642,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "4tj"
 		  },
 		  {
@@ -3895,7 +3658,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "6s3"
 		  },
 		  {
@@ -3912,7 +3674,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5fk"
 		  },
 		  {
@@ -3929,7 +3690,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Fire"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7e4"
 		  },
 		  {
@@ -3943,7 +3703,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "4sp"
 		  },
 		  {
@@ -3957,7 +3716,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "6r9"
 		  },
 		  {
@@ -3971,7 +3729,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20101023123506/elementsthegame/images/9/98/WaterPillar.png",
 			"code": "5i4"
 		  },
 		  {
@@ -3985,7 +3742,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101023123831/elementsthegame/images/3/39/WaterTower.png",
 			"code": "7gk"
 		  },
 		  {
@@ -3999,7 +3755,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101026161704/elementsthegame/images/0/05/WaterPendulum.png",
 			"code": "5jm"
 		  },
 		  {
@@ -4013,7 +3768,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20101026162139/elementsthegame/images/5/52/WaterPendulumUpgraded.png",
 			"code": "7i6"
 		  },
 		  {
@@ -4030,7 +3784,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101026181207/elementsthegame/images/9/95/Chrysaora.png",
 			"code": "5i5"
 		  },
 		  {
@@ -4047,7 +3800,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Water"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20100714100519/elementsthegame/images/b/b9/Physalia.png",
 			"code": "7gl"
 		  },
 		  {
@@ -4064,7 +3816,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Water"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101026181500/elementsthegame/images/6/69/Blue_crawler.png",
 			"code": "5i6"
 		  },
 		  {
@@ -4081,7 +3832,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Water"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101026181625/elementsthegame/images/2/27/Abyss_crawler.png",
 			"code": "7gm"
 		  },
 		  {
@@ -4098,7 +3848,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Water"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101026181854/elementsthegame/images/0/00/Freeze.png",
 			"code": "5i7"
 		  },
 		  {
@@ -4115,7 +3864,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101026182118/elementsthegame/images/c/ca/Congeal.png",
 			"code": "7gn"
 		  },
 		  {
@@ -4132,7 +3880,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Water"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20100714100111/elementsthegame/images/5/59/IceBolt.png",
 			"code": "5i8"
 		  },
 		  {
@@ -4149,7 +3896,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20100714100124/elementsthegame/images/f/f7/IceLance.png",
 			"code": "7go"
 		  },
 		  {
@@ -4166,7 +3912,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Water"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101026182458/elementsthegame/images/2/25/Ice_shield.png",
 			"code": "5i9"
 		  },
 		  {
@@ -4183,7 +3928,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20100714100744/elementsthegame/images/a/a2/PermafrostShield.png",
 			"code": "7gp"
 		  },
 		  {
@@ -4200,7 +3944,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Water"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120414171405/elementsthegame/images/2/22/Purify.png",
 			"code": "5ia"
 		  },
 		  {
@@ -4217,7 +3960,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Water"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120414171707/elementsthegame/images/5/5f/PurifyUpgraded.png",
 			"code": "7gq"
 		  },
 		  {
@@ -4234,7 +3976,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Water"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101026184518/elementsthegame/images/a/a3/IceDragon.png",
 			"code": "5id"
 		  },
 		  {
@@ -4251,7 +3992,6 @@ function CardService() {
 			  "amount": "11",
 			  "type": "Water"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20100714100949/elementsthegame/images/8/87/ArcticDragon.png",
 			"code": "7gt"
 		  },
 		  {
@@ -4268,7 +4008,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Water"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120515183225/elementsthegame/images/5/5f/Toadfish.png",
 			"code": "5ie"
 		  },
 		  {
@@ -4285,7 +4024,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Water"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120515183315/elementsthegame/images/a/a4/PufferFish.png",
 			"code": "7gu"
 		  },
 		  {
@@ -4302,7 +4040,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101025184611/elementsthegame/images/7/7f/MindFlayer.png",
 			"code": "5if"
 		  },
 		  {
@@ -4319,7 +4056,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Water"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20100714084856/elementsthegame/images/2/2b/Ulitharid.png",
 			"code": "7gv"
 		  },
 		  {
@@ -4336,7 +4072,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101220151445/elementsthegame/images/5/57/SteamMachine.png",
 			"code": "5ii"
 		  },
 		  {
@@ -4353,7 +4088,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Water"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101220151738/elementsthegame/images/8/88/SteamMachineUpgraded.png",
 			"code": "7h2"
 		  },
 		  {
@@ -4370,7 +4104,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101026185457/elementsthegame/images/9/98/NymphsTears.png",
 			"code": "5ig"
 		  },
 		  {
@@ -4387,7 +4120,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Water"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101026185552/elementsthegame/images/c/c6/NymphsTearsElite.png",
 			"code": "7h0"
 		  },
 		  {
@@ -4404,7 +4136,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Water"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20111013175153/elementsthegame/images/a/a5/Flooding.png",
 			"code": "5ih"
 		  },
 		  {
@@ -4421,7 +4152,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Water"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20111013175403/elementsthegame/images/1/1e/Inundation.png",
 			"code": "7h1"
 		  },
 		  {
@@ -4438,7 +4168,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120316191824/elementsthegame/images/f/fd/ArcticSquid.png",
 			"code": "5ib"
 		  },
 		  {
@@ -4455,7 +4184,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120316191853/elementsthegame/images/2/22/ArcticOctopus.png",
 			"code": "7gr"
 		  },
 		  {
@@ -4472,7 +4200,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Water"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120316191956/elementsthegame/images/9/9a/Trident.png",
 			"code": "5ic"
 		  },
 		  {
@@ -4489,7 +4216,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Water"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120316192029/elementsthegame/images/4/43/Poseidon.png",
 			"code": "7gs"
 		  },
 		  {
@@ -4506,7 +4232,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20130119071551/elementsthegame/images/1/19/ShardOfPatience.png",
 			"code": "4tf"
 		  },
 		  {
@@ -4523,7 +4248,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20130119071631/elementsthegame/images/0/0c/ShardOfPatience_Upped.png",
 			"code": "6rv"
 		  },
 		  {
@@ -4540,7 +4264,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Water"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120515174939/elementsthegame/images/2/25/NymphQueen.png",
 			"code": "5io"
 		  },
 		  {
@@ -4557,7 +4280,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Water"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120515175159/elementsthegame/images/0/0d/WaterNymph.png",
 			"code": "7h8"
 		  },
 		  {
@@ -4571,7 +4293,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20120317130100/elementsthegame/images/c/c3/MarkOfLightUnupgraded.png",
 			"code": "4sq"
 		  },
 		  {
@@ -4585,7 +4306,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120317130142/elementsthegame/images/8/8d/MarkOfLightUpgraded.png",
 			"code": "6ra"
 		  },
 		  {
@@ -4599,7 +4319,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20101028183511/elementsthegame/images/d/dc/LightPillar.png",
 			"code": "5l8"
 		  },
 		  {
@@ -4613,7 +4332,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20101028183747/elementsthegame/images/2/29/LightTower.png",
 			"code": "7jo"
 		  },
 		  {
@@ -4627,7 +4345,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20101028184500/elementsthegame/images/5/5d/LightPendulum.png",
 			"code": "5mq"
 		  },
 		  {
@@ -4641,7 +4358,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101105175936/elementsthegame/images/1/16/LightPendulumUpgraded.png",
 			"code": "7la"
 		  },
 		  {
@@ -4655,7 +4371,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20101030165905/elementsthegame/images/5/51/Photon.png",
 			"code": "5l9"
 		  },
 		  {
@@ -4669,7 +4384,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20101029185836/elementsthegame/images/7/7d/RayOfLight.png",
 			"code": "7jp"
 		  },
 		  {
@@ -4686,7 +4400,6 @@ function CardService() {
 			  "amount": "12",
 			  "type": "Light"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101030141300/elementsthegame/images/1/1d/GoldenDragon.png",
 			"code": "5la"
 		  },
 		  {
@@ -4703,7 +4416,6 @@ function CardService() {
 			  "amount": "13",
 			  "type": "Light"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101030141514/elementsthegame/images/8/8c/LightDragon.png",
 			"code": "7jq"
 		  },
 		  {
@@ -4720,7 +4432,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Light"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101030165805/elementsthegame/images/4/4a/Pegasus.png",
 			"code": "5lb"
 		  },
 		  {
@@ -4737,7 +4448,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Light"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101030144956/elementsthegame/images/0/09/ElitePegasus.png",
 			"code": "7jr"
 		  },
 		  {
@@ -4754,7 +4464,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Light"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101030150055/elementsthegame/images/2/21/HolyLight.png",
 			"code": "5lc"
 		  },
 		  {
@@ -4768,7 +4477,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20101030150830/elementsthegame/images/c/c9/HolyFlash.png",
 			"code": "7js"
 		  },
 		  {
@@ -4785,7 +4493,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Light"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101220143711/elementsthegame/images/5/5d/SolarShield.png",
 			"code": "5ld"
 		  },
 		  {
@@ -4802,7 +4509,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Light"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101220144143/elementsthegame/images/c/ca/SolarBuckler.png",
 			"code": "7jt"
 		  },
 		  {
@@ -4819,7 +4525,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Light"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101030164537/elementsthegame/images/d/d3/ReflectiveShield.png",
 			"code": "5lg"
 		  },
 		  {
@@ -4836,7 +4541,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Light"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101030165002/elementsthegame/images/f/fd/MirrorShield.png",
 			"code": "7k0"
 		  },
 		  {
@@ -4853,7 +4557,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Light"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101030165209/elementsthegame/images/1/18/Hope.png",
 			"code": "5lk"
 		  },
 		  {
@@ -4870,7 +4573,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Light"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101030165313/elementsthegame/images/4/45/HopeUpgraded.png",
 			"code": "7k4"
 		  },
 		  {
@@ -4887,7 +4589,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Light"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101030170619/elementsthegame/images/9/9f/GuardianAngel.png",
 			"code": "5le"
 		  },
 		  {
@@ -4904,7 +4605,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Light"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101030170908/elementsthegame/images/4/40/Archangel.png",
 			"code": "7ju"
 		  },
 		  {
@@ -4921,7 +4621,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Light"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101030171122/elementsthegame/images/c/cb/Blessing.png",
 			"code": "5lf"
 		  },
 		  {
@@ -4938,7 +4637,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Light"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101030171338/elementsthegame/images/3/32/ImprovedBlessing.png",
 			"code": "7jv"
 		  },
 		  {
@@ -4955,7 +4653,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Light"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101220170308/elementsthegame/images/d/d5/Luciferin.png",
 			"code": "5lj"
 		  },
 		  {
@@ -4972,7 +4669,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Light"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101220170615/elementsthegame/images/f/f7/Luciferase.png",
 			"code": "7k3"
 		  },
 		  {
@@ -4989,7 +4685,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Light"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101220123025/elementsthegame/images/e/eb/Crusader.png",
 			"code": "5ll"
 		  },
 		  {
@@ -5006,7 +4701,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Light"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101220123411/elementsthegame/images/8/8f/CrusaderUpgraded.png",
 			"code": "7k5"
 		  },
 		  {
@@ -5023,7 +4717,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Light"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20110228200054/elementsthegame/images/e/ed/Sanctuary.png",
 			"code": "5lm"
 		  },
 		  {
@@ -5040,7 +4733,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Light"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20110228200350/elementsthegame/images/2/2a/SanctuaryUpgraded.png",
 			"code": "7k6"
 		  },
 		  {
@@ -5057,7 +4749,6 @@ function CardService() {
 			  "amount": "15",
 			  "type": "Light"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317130307/elementsthegame/images/5/5c/Miracle.png",
 			"code": "5li"
 		  },
 		  {
@@ -5074,7 +4765,6 @@ function CardService() {
 			  "amount": "12",
 			  "type": "Light"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317130339/elementsthegame/images/6/6f/ImprovedMiracle.png",
 			"code": "7k2"
 		  },
 		  {
@@ -5091,7 +4781,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Light"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317130448/elementsthegame/images/5/5b/MorningStar.png",
 			"code": "5lh"
 		  },
 		  {
@@ -5108,7 +4797,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Light"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317130523/elementsthegame/images/d/dc/MorningGlory.png",
 			"code": "7k1"
 		  },
 		  {
@@ -5141,7 +4829,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Light"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20130119071811/elementsthegame/images/f/f1/ShardOfDivinity_Upped.png",
 			"code": "6rm"
 		  },
 		  {
@@ -5158,7 +4845,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Light"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120515175517/elementsthegame/images/9/9e/WhiteNymph.png",
 			"code": "5ls"
 		  },
 		  {
@@ -5175,7 +4861,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Light"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120515175719/elementsthegame/images/f/f9/LightNymph.png",
 			"code": "7kc"
 		  },
 		  {
@@ -5189,7 +4874,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120316173852/elementsthegame/images/3/3f/MarkOfAirUnupgraded.png",
 			"code": "4sr"
 		  },
 		  {
@@ -5203,7 +4887,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20120316173949/elementsthegame/images/2/22/MarkOfAirUpgraded.png",
 			"code": "6rb"
 		  },
 		  {
@@ -5217,7 +4900,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101023084847/elementsthegame/images/9/9d/Wind_pillar.png",
 			"code": "5oc"
 		  },
 		  {
@@ -5231,7 +4913,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20101023085112/elementsthegame/images/f/fd/WindTower.png",
 			"code": "7ms"
 		  },
 		  {
@@ -5245,7 +4926,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101023085304/elementsthegame/images/8/85/AirPendulum.png",
 			"code": "5pu"
 		  },
 		  {
@@ -5259,7 +4939,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101023085351/elementsthegame/images/0/0c/AirPendulum%28Upgraded%29.png",
 			"code": "7oe"
 		  },
 		  {
@@ -5276,7 +4955,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Air"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20110301181742/elementsthegame/images/8/84/Dragonfly.png",
 			"code": "5od"
 		  },
 		  {
@@ -5290,7 +4968,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20110301181950/elementsthegame/images/e/ec/Damselfly.png",
 			"code": "7mt"
 		  },
 		  {
@@ -5307,7 +4984,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Air"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20100705070134/elementsthegame/images/1/1a/Wyrm.png",
 			"code": "5oe"
 		  },
 		  {
@@ -5324,7 +5000,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Air"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20100705070149/elementsthegame/images/7/7d/EliteWyrm.png",
 			"code": "7mu"
 		  },
 		  {
@@ -5341,7 +5016,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Air"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101023091031/elementsthegame/images/e/e8/Azure_dragon.png",
 			"code": "5of"
 		  },
 		  {
@@ -5358,7 +5032,6 @@ function CardService() {
 			  "amount": "12",
 			  "type": "Air"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101023091504/elementsthegame/images/f/fd/SkyDragon.png",
 			"code": "7mv"
 		  },
 		  {
@@ -5375,7 +5048,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Air"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101023091752/elementsthegame/images/d/d4/Fog_shield.png",
 			"code": "5og"
 		  },
 		  {
@@ -5392,7 +5064,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Air"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101023092055/elementsthegame/images/4/46/ImprovedFog.png",
 			"code": "7n0"
 		  },
 		  {
@@ -5409,7 +5080,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5oo"
 		  },
 		  {
@@ -5426,7 +5096,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7n8"
 		  },
 		  {
@@ -5443,7 +5112,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5op"
 		  },
 		  {
@@ -5460,7 +5128,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7n9"
 		  },
 		  {
@@ -5477,7 +5144,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5oh"
 		  },
 		  {
@@ -5494,7 +5160,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7n1"
 		  },
 		  {
@@ -5511,7 +5176,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5oi"
 		  },
 		  {
@@ -5527,7 +5191,6 @@ function CardService() {
 			"cost": {
 			  "amount": "1"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7n2"
 		  },
 		  {
@@ -5544,7 +5207,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5oj"
 		  },
 		  {
@@ -5561,7 +5223,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7n3"
 		  },
 		  {
@@ -5578,7 +5239,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5ok"
 		  },
 		  {
@@ -5595,7 +5255,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Air"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7n4"
 		  },
 		  {
@@ -5612,7 +5271,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Air"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101023105819/elementsthegame/images/d/d7/UnstableGas.png",
 			"code": "5om"
 		  },
 		  {
@@ -5629,7 +5287,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Air"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101023105956/elementsthegame/images/e/ef/UnstableGasElite.png",
 			"code": "7n6"
 		  },
 		  {
@@ -5646,7 +5303,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Air"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20110301182355/elementsthegame/images/6/65/Shockwave.png",
 			"code": "5on"
 		  },
 		  {
@@ -5663,7 +5319,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Air"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20110301182551/elementsthegame/images/1/12/ShockwaveUpgraded.png",
 			"code": "7n7"
 		  },
 		  {
@@ -5680,7 +5335,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Air"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120316174054/elementsthegame/images/4/42/OwlsEye.png",
 			"code": "5ol"
 		  },
 		  {
@@ -5697,7 +5351,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Air"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120316174135/elementsthegame/images/f/f2/EaglesEye.png",
 			"code": "7n5"
 		  },
 		  {
@@ -5714,7 +5367,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Air"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20130119070923/elementsthegame/images/6/63/ShardOfFreedom.png",
 			"code": "4tm"
 		  },
 		  {
@@ -5731,7 +5383,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Air"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20130119071212/elementsthegame/images/8/89/ShardOfFreedomUpgraded.png",
 			"code": "6s6"
 		  },
 		  {
@@ -5748,7 +5399,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Air"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120515174358/elementsthegame/images/9/95/BlueNymph.png",
 			"code": "5p0"
 		  },
 		  {
@@ -5765,7 +5415,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Air"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120515174611/elementsthegame/images/b/b2/AirNymph.png",
 			"code": "7ng"
 		  },
 		  {
@@ -5779,7 +5428,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120317160109/elementsthegame/images/a/a6/MarkOfTimeUnupgraded.png",
 			"code": "4ss"
 		  },
 		  {
@@ -5793,7 +5441,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317160327/elementsthegame/images/7/75/MarkOfTimeUpgraded.png",
 			"code": "6rc"
 		  },
 		  {
@@ -5807,7 +5454,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20100701104817/elementsthegame/images/e/ef/TimeFactory.png",
 			"code": "5rg"
 		  },
 		  {
@@ -5821,7 +5467,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101106184153/elementsthegame/images/a/aa/TimeTower.png",
 			"code": "7q0"
 		  },
 		  {
@@ -5835,7 +5480,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20101019180401/elementsthegame/images/b/b1/TimePendulum.png",
 			"code": "5t2"
 		  },
 		  {
@@ -5849,7 +5493,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20101019180740/elementsthegame/images/0/01/TimePendulumUpgraded.png",
 			"code": "7ri"
 		  },
 		  {
@@ -5866,7 +5509,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Time"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20100701103902/elementsthegame/images/9/9d/DejaVu.png",
 			"code": "5rh"
 		  },
 		  {
@@ -5883,7 +5525,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20100701103920/elementsthegame/images/c/c2/EliteDejaVu.png",
 			"code": "7q1"
 		  },
 		  {
@@ -5900,7 +5541,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20100701103937/elementsthegame/images/5/5c/FateEgg.png",
 			"code": "5ri"
 		  },
 		  {
@@ -5917,7 +5557,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Time"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20100701103949/elementsthegame/images/2/2c/FateEggUpgraded.png",
 			"code": "7q2"
 		  },
 		  {
@@ -5934,7 +5573,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Time"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101106190213/elementsthegame/images/0/02/Procrastination.png",
 			"code": "5rj"
 		  },
 		  {
@@ -5951,7 +5589,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20100701104155/elementsthegame/images/7/7f/TurtleShield.png",
 			"code": "7q3"
 		  },
 		  {
@@ -5968,7 +5605,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20110301193552/elementsthegame/images/4/4b/ReverseTime.png",
 			"code": "5rk"
 		  },
 		  {
@@ -5985,7 +5621,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Time"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20110301193640/elementsthegame/images/0/01/Rewind.png",
 			"code": "7q4"
 		  },
 		  {
@@ -6002,7 +5637,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Time"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20100701104000/elementsthegame/images/2/20/GoldenHourglass.png",
 			"code": "5rl"
 		  },
 		  {
@@ -6019,7 +5653,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Time"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20100701104021/elementsthegame/images/c/cd/ElectrumHourglass.png",
 			"code": "7q5"
 		  },
 		  {
@@ -6036,7 +5669,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Time"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20100701103115/elementsthegame/images/b/b1/DevonianDragon.png",
 			"code": "5rm"
 		  },
 		  {
@@ -6053,7 +5685,6 @@ function CardService() {
 			  "amount": "12",
 			  "type": "Time"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20100701103138/elementsthegame/images/1/18/SilurianDragon.png",
 			"code": "7q6"
 		  },
 		  {
@@ -6070,7 +5701,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Time"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101106193128/elementsthegame/images/2/26/Anubis.png",
 			"code": "5rn"
 		  },
 		  {
@@ -6087,7 +5717,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20100701103023/elementsthegame/images/8/87/EliteAnubis.png",
 			"code": "7q7"
 		  },
 		  {
@@ -6104,7 +5733,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101106193833/elementsthegame/images/1/15/Sundial.png",
 			"code": "5rp"
 		  },
 		  {
@@ -6118,7 +5746,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101220175716/elementsthegame/images/7/76/SundialUpgrade.png",
 			"code": "7q9"
 		  },
 		  {
@@ -6135,7 +5762,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Time"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20100701102446/elementsthegame/images/9/96/Scarab.png",
 			"code": "5rq"
 		  },
 		  {
@@ -6152,7 +5778,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Time"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20100701102537/elementsthegame/images/1/1f/ScarabUpgraded.png",
 			"code": "7qa"
 		  },
 		  {
@@ -6169,7 +5794,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101106195500/elementsthegame/images/b/b2/Precognition.png",
 			"code": "5rr"
 		  },
 		  {
@@ -6186,7 +5810,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101106195635/elementsthegame/images/1/10/PrecognitionUpgrade.png",
 			"code": "7qb"
 		  },
 		  {
@@ -6203,7 +5826,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Time"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101019182203/elementsthegame/images/f/f4/DuneScorpion.png",
 			"code": "5rt"
 		  },
 		  {
@@ -6220,7 +5842,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Time"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101019183134/elementsthegame/images/2/29/DuneScorpionUpgraded.png",
 			"code": "7qd"
 		  },
 		  {
@@ -6237,7 +5858,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20110204203504/elementsthegame/images/c/c0/GhostOfThePast.png",
 			"code": "5ru"
 		  },
 		  {
@@ -6254,7 +5874,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Time"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20110204203837/elementsthegame/images/4/4f/GhostOfThePastUpgraded.png",
 			"code": "7qe"
 		  },
 		  {
@@ -6271,7 +5890,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Time"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120515181404/elementsthegame/images/2/26/Pharaoh.png",
 			"code": "5rs"
 		  },
 		  {
@@ -6288,7 +5906,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Time"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120515181547/elementsthegame/images/f/fe/PharaohUpgraded.png",
 			"code": "7qc"
 		  },
 		  {
@@ -6305,7 +5922,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Time"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317160858/elementsthegame/images/3/38/Eternity.png",
 			"code": "5ro"
 		  },
 		  {
@@ -6322,7 +5938,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Time"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317161150/elementsthegame/images/e/e0/EternityUpgraded.png",
 			"code": "7q8"
 		  },
 		  {
@@ -6339,7 +5954,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20130119072417/elementsthegame/images/f/fa/Shard_of_Readiness.png",
 			"code": "4ta"
 		  },
 		  {
@@ -6356,7 +5970,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Time"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20130119072439/elementsthegame/images/3/35/ShardOfReadiness_Upped.png",
 			"code": "6rq"
 		  },
 		  {
@@ -6373,7 +5986,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Time"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317161404/elementsthegame/images/1/18/GoldenNymph.png",
 			"code": "5s4"
 		  },
 		  {
@@ -6390,7 +6002,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Time"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317161459/elementsthegame/images/1/15/GoldenNymphElite.png",
 			"code": "7qk"
 		  },
 		  {
@@ -6404,7 +6015,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20120317110245/elementsthegame/images/8/84/MarkOfDarknessUnupgraded.png",
 			"code": "4st"
 		  },
 		  {
@@ -6418,7 +6028,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317110329/elementsthegame/images/6/6d/MarkOfDarknessUpgraded.png",
 			"code": "6rd"
 		  },
 		  {
@@ -6432,7 +6041,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20120317110444/elementsthegame/images/7/74/ObsidianPillar.png",
 			"code": "5uk"
 		  },
 		  {
@@ -6446,7 +6054,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317110619/elementsthegame/images/6/62/ObsidianTower.png",
 			"code": "7t4"
 		  },
 		  {
@@ -6460,7 +6067,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120317110731/elementsthegame/images/2/2f/DarkPendulum.png",
 			"code": "606"
 		  },
 		  {
@@ -6474,7 +6080,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20120317110804/elementsthegame/images/9/92/DarkPendulumUpgraded.png",
 			"code": "7um"
 		  },
 		  {
@@ -6491,7 +6096,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Darkness"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317122932/elementsthegame/images/7/75/BlackDragon.png",
 			"code": "5ul"
 		  },
 		  {
@@ -6508,7 +6112,6 @@ function CardService() {
 			  "amount": "12",
 			  "type": "Darkness"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317123010/elementsthegame/images/b/b7/ObsidianDragon.png",
 			"code": "7t5"
 		  },
 		  {
@@ -6525,7 +6128,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Darkness"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "5um"
 		  },
 		  {
@@ -6542,7 +6144,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Darkness"
 			},
-			"image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
 			"code": "7t6"
 		  },
 		  {
@@ -6559,7 +6160,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317123235/elementsthegame/images/f/f0/Parasite.png",
 			"code": "5un"
 		  },
 		  {
@@ -6576,7 +6176,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317123313/elementsthegame/images/e/e4/Bloodsucker.png",
 			"code": "7t7"
 		  },
 		  {
@@ -6593,7 +6192,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Darkness"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317123403/elementsthegame/images/0/0c/DuskMantle.png",
 			"code": "5uo"
 		  },
 		  {
@@ -6610,7 +6208,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Darkness"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317123435/elementsthegame/images/9/95/ImprovedDusk.png",
 			"code": "7t8"
 		  },
 		  {
@@ -6627,7 +6224,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317123504/elementsthegame/images/9/92/Steal.png",
 			"code": "5up"
 		  },
 		  {
@@ -6644,7 +6240,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317123537/elementsthegame/images/0/00/ImprovedSteal.png",
 			"code": "7t9"
 		  },
 		  {
@@ -6661,7 +6256,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317123609/elementsthegame/images/9/90/Nightfall.png",
 			"code": "5uq"
 		  },
 		  {
@@ -6678,7 +6272,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Darkness"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317123639/elementsthegame/images/c/c5/Eclipse.png",
 			"code": "7ta"
 		  },
 		  {
@@ -6695,7 +6288,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Darkness"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317123828/elementsthegame/images/a/a8/DrainLife.png",
 			"code": "5us"
 		  },
 		  {
@@ -6712,7 +6304,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317123858/elementsthegame/images/c/c0/SiphonLife.png",
 			"code": "7tc"
 		  },
 		  {
@@ -6729,7 +6320,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Darkness"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317123929/elementsthegame/images/3/3f/MinorVampire.png",
 			"code": "5ut"
 		  },
 		  {
@@ -6746,7 +6336,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Darkness"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317123959/elementsthegame/images/4/4e/Vampire.png",
 			"code": "7td"
 		  },
 		  {
@@ -6763,7 +6352,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Darkness"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317124032/elementsthegame/images/7/78/LiquidShadow.png",
 			"code": "5uu"
 		  },
 		  {
@@ -6780,7 +6368,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Darkness"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317124105/elementsthegame/images/2/2e/LiquidShadowElite.png",
 			"code": "7te"
 		  },
 		  {
@@ -6797,7 +6384,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317124221/elementsthegame/images/4/44/Gargoyle.png",
 			"code": "5uv"
 		  },
 		  {
@@ -6814,7 +6400,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317124314/elementsthegame/images/8/88/GargoyleUpgraded.png",
 			"code": "7tf"
 		  },
 		  {
@@ -6831,7 +6416,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Darkness"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317124346/elementsthegame/images/9/9f/VoodooDoll.png",
 			"code": "5v0"
 		  },
 		  {
@@ -6848,7 +6432,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317124423/elementsthegame/images/f/f9/VoodooDollUpgraded.png",
 			"code": "7tg"
 		  },
 		  {
@@ -6865,7 +6448,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Darkness"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317124519/elementsthegame/images/9/9b/Nightmare.png",
 			"code": "5v1"
 		  },
 		  {
@@ -6882,7 +6464,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Darkness"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317124551/elementsthegame/images/1/1f/NightmareUpgraded.png",
 			"code": "7th"
 		  },
 		  {
@@ -6899,7 +6480,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Darkness"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317124624/elementsthegame/images/2/27/Cloak.png",
 			"code": "5v2"
 		  },
 		  {
@@ -6916,7 +6496,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Darkness"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317124700/elementsthegame/images/c/c4/CloakUpgraded.png",
 			"code": "7ti"
 		  },
 		  {
@@ -6933,7 +6512,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317124729/elementsthegame/images/5/5a/VampireStiletto.png",
 			"code": "5ur"
 		  },
 		  {
@@ -6950,7 +6528,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317124834/elementsthegame/images/b/bf/VampireDagger.png",
 			"code": "7tb"
 		  },
 		  {
@@ -6967,7 +6544,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Darkness"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20130119071915/elementsthegame/images/9/9e/ShardOfVoid.png",
 			"code": "4te"
 		  },
 		  {
@@ -6984,7 +6560,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Darkness"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20130119071941/elementsthegame/images/c/c3/ShardOfVoid_Upped.png",
 			"code": "6ru"
 		  },
 		  {
@@ -7001,7 +6576,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317124942/elementsthegame/images/e/e4/BlackNymph.png",
 			"code": "5v8"
 		  },
 		  {
@@ -7018,7 +6592,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Darkness"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120317125014/elementsthegame/images/a/aa/DarkNymph.png",
 			"code": "7to"
 		  },
 		  {
@@ -7032,7 +6605,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20120317165001/elementsthegame/images/4/46/MarkOfAetherUnupgraded.png",
 			"code": "4su"
 		  },
 		  {
@@ -7046,7 +6618,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20120317165031/elementsthegame/images/d/d6/MarkOfAetherUpgraded.png",
 			"code": "6re"
 		  },
 		  {
@@ -7060,7 +6631,6 @@ function CardService() {
 			  "sell": "4"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101107184855/elementsthegame/images/5/58/AetherPillar.png",
 			"code": "61o"
 		  },
 		  {
@@ -7074,7 +6644,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img3.wikia.nocookie.net/__cb20101107185021/elementsthegame/images/a/ad/AetherTower.png",
 			"code": "808"
 		  },
 		  {
@@ -7088,7 +6657,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20101107185436/elementsthegame/images/b/b1/AetherPendulum.png",
 			"code": "63a"
 		  },
 		  {
@@ -7102,7 +6670,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img2.wikia.nocookie.net/__cb20101107185513/elementsthegame/images/9/9e/AetherPendulumUpgraded.png",
 			"code": "81q"
 		  },
 		  {
@@ -7116,7 +6683,6 @@ function CardService() {
 			  "sell": "16"
 			},
 			"cost": null,
-			"image": "http://img4.wikia.nocookie.net/__cb20100704082116/elementsthegame/images/c/cd/Spark.png",
 			"code": "61p"
 		  },
 		  {
@@ -7130,7 +6696,6 @@ function CardService() {
 			  "sell": "1156"
 			},
 			"cost": null,
-			"image": "http://img1.wikia.nocookie.net/__cb20100704082137/elementsthegame/images/b/b7/BallLightning.png",
 			"code": "809"
 		  },
 		  {
@@ -7147,7 +6712,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Aether"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20100704081735/elementsthegame/images/8/86/Lightning.png",
 			"code": "61q"
 		  },
 		  {
@@ -7164,7 +6728,6 @@ function CardService() {
 			  "amount": "1",
 			  "type": "Aether"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101107190429/elementsthegame/images/d/db/Thunderbolt.png",
 			"code": "80a"
 		  },
 		  {
@@ -7181,7 +6744,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Aether"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101107190826/elementsthegame/images/2/26/ParallelUniverse.png",
 			"code": "61r"
 		  },
 		  {
@@ -7198,7 +6760,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Aether"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101107191010/elementsthegame/images/2/29/TwinUniverse.png",
 			"code": "80b"
 		  },
 		  {
@@ -7215,7 +6776,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Aether"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101107191637/elementsthegame/images/3/39/Immortal.png",
 			"code": "61s"
 		  },
 		  {
@@ -7232,7 +6792,6 @@ function CardService() {
 			  "amount": "7",
 			  "type": "Aether"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101107191923/elementsthegame/images/d/dd/EliteImmortal.png",
 			"code": "80c"
 		  },
 		  {
@@ -7249,7 +6808,6 @@ function CardService() {
 			  "amount": "6",
 			  "type": "Aether"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101107192314/elementsthegame/images/a/ac/DimensionalShield.png",
 			"code": "61t"
 		  },
 		  {
@@ -7266,7 +6824,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Aether"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101107192435/elementsthegame/images/1/11/PhaseShield.png",
 			"code": "80d"
 		  },
 		  {
@@ -7283,7 +6840,6 @@ function CardService() {
 			  "amount": "13",
 			  "type": "Aether"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101107192920/elementsthegame/images/8/83/PhaseDragon.png",
 			"code": "61v"
 		  },
 		  {
@@ -7300,7 +6856,6 @@ function CardService() {
 			  "amount": "14",
 			  "type": "Aether"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101107193128/elementsthegame/images/a/a2/ElitePhaseDragon.png",
 			"code": "80f"
 		  },
 		  {
@@ -7317,7 +6872,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Aether"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101107193943/elementsthegame/images/0/04/PhaseSpider.png",
 			"code": "620"
 		  },
 		  {
@@ -7334,7 +6888,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Aether"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101107194118/elementsthegame/images/a/a4/PhaseRecluse.png",
 			"code": "80g"
 		  },
 		  {
@@ -7351,7 +6904,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Aether"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20101107194338/elementsthegame/images/4/44/Quintessence.png",
 			"code": "621"
 		  },
 		  {
@@ -7368,7 +6920,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Aether"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101107194856/elementsthegame/images/e/e7/QuintessenceUpgrade.png",
 			"code": "80h"
 		  },
 		  {
@@ -7385,7 +6936,6 @@ function CardService() {
 			  "amount": "10",
 			  "type": "Aether"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101220142046/elementsthegame/images/9/99/Fractal.png",
 			"code": "622"
 		  },
 		  {
@@ -7402,7 +6952,6 @@ function CardService() {
 			  "amount": "9",
 			  "type": "Aether"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101220142312/elementsthegame/images/e/ee/FractalUpgraded.png",
 			"code": "80i"
 		  },
 		  {
@@ -7419,7 +6968,6 @@ function CardService() {
 			  "amount": "5",
 			  "type": "Aether"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20101019201623/elementsthegame/images/2/2b/Mindgate.png",
 			"code": "623"
 		  },
 		  {
@@ -7436,7 +6984,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Aether"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20101019202127/elementsthegame/images/f/ff/MindgateUpgraded.png",
 			"code": "80j"
 		  },
 		  {
@@ -7453,7 +7000,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Aether"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101220131914/elementsthegame/images/7/76/Silence.png",
 			"code": "624"
 		  },
 		  {
@@ -7470,7 +7016,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Aether"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20101220132215/elementsthegame/images/b/b0/SilenceUpgraded.png",
 			"code": "80k"
 		  },
 		  {
@@ -7487,7 +7032,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Aether"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120515185008/elementsthegame/images/b/b5/Psion.png",
 			"code": "625"
 		  },
 		  {
@@ -7504,7 +7048,6 @@ function CardService() {
 			  "amount": "4",
 			  "type": "Aether"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120515185503/elementsthegame/images/a/ae/PsionUpgraded.png",
 			"code": "80l"
 		  },
 		  {
@@ -7521,7 +7064,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Aether"
 			},
-			"image": "http://img3.wikia.nocookie.net/__cb20120317165111/elementsthegame/images/b/bd/Lobotomizer.png",
 			"code": "61u"
 		  },
 		  {
@@ -7538,7 +7080,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Aether"
 			},
-			"image": "http://img4.wikia.nocookie.net/__cb20120317165140/elementsthegame/images/8/8d/Electrocutor.png",
 			"code": "80e"
 		  },
 		  {
@@ -7555,7 +7096,6 @@ function CardService() {
 			  "amount": "3",
 			  "type": "Aether"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20130119072710/elementsthegame/images/c/c4/ShardOfWisdom.png",
 			"code": "4tl"
 		  },
 		  {
@@ -7572,7 +7112,6 @@ function CardService() {
 			  "amount": "2",
 			  "type": "Aether"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20130119072746/elementsthegame/images/0/08/ShardOfWisdomUpgraded.png",
 			"code": "6s5"
 		  },
 		  {
@@ -7589,7 +7128,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Aether"
 			},
-			"image": "http://img1.wikia.nocookie.net/__cb20120317165211/elementsthegame/images/2/20/TurquoiseNymph.png",
 			"code": "62c"
 		  },
 		  {
@@ -7606,7 +7144,6 @@ function CardService() {
 			  "amount": "8",
 			  "type": "Aether"
 			},
-			"image": "http://img2.wikia.nocookie.net/__cb20120515181801/elementsthegame/images/5/51/AetherNymph.png",
 			"code": "80s"
 		  }
 		];

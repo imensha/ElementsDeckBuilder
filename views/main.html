@@ -9,8 +9,7 @@
 		<div class="row">
 			<div class="col-xs-12">
 				<span class="card" ng-repeat="card in builder.pageCards">
-					<img ng-if="builder.hasImage(card)" ng-src="{{'assets/img/' + card.code + '.png'}}" width="90px" ng-click="builder.deckAdd(card)">
-					<img ng-if="!builder.hasImage(card)" ng-src="{{'assets/img/no-image.png'}}" width="90px" ng-click="builder.deckAdd(card)">
+					<img ng-src="{{'assets/img/' + card.code + '.png'}}" width="90px" ng-click="builder.deckAdd(card)">
 				</span>
 			</div>
 		</div>

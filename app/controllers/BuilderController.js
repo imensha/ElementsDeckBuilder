@@ -20,13 +20,6 @@ function BuilderController($animate, $timeout, $filter, Cards, Elements, DeckSto
 	this.deckEmpty = function() {
 		this.deck.cards = [];
 	};
-	this.hasImage = function(card) {
-		if(typeof card.image === "undefined" || card.image.search(/^data/) > -1) {
-			return false;
-		} else {
-			return true;
-		}
-	};
 
 	/*
 	 * Save/Load deck code
