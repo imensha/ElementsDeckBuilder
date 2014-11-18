@@ -1,4 +1,4 @@
-function BuilderController($animate, $timeout, $filter, Cards, Elements, DeckStore) {
+function BuilderController($animate, $timeout, $filter, $scope, Cards, Deck, Elements, DeckStore) {
 	this.elements = Elements;
 	this.elements.unshift({name: "All Elements", value: ""});
 	this.allCards = Cards;
@@ -20,6 +20,35 @@ function BuilderController($animate, $timeout, $filter, Cards, Elements, DeckSto
 	this.deckEmpty = function() {
 		this.deck.cards = [];
 	};
+
+	$scope.$watch((function() {
+		return this.deck.cards;
+	}).bind(this), (function(newVal, oldVal) {
+		this.exportDeck();
+	}).bind(this), true);
+
+	/*
+	 * Import/Export decks
+	 */
+	this.importDeck = function(text) {
+		if(text.length > 0) {
+			var deck = Deck.parse(text);
+			if(typeof deck !== "undefined") {
+				this.deck.cards = deck;
+			} else {
+				this.importError = true;
+				this.importErrorMessage = "Unknown format!";
+				$timeout((function() {
+					this.importError = false;
+				}).bind(this), 3000);
+			}
+		}
+	}
+
+	this.exportDeck = function() {
+		var deck = this.deck.cards;
+		this.exportString = Deck.stringify(deck) || "";
+	}
 
 	/*
 	 * Save/Load deck code

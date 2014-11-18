@@ -2,8 +2,12 @@
 	<div class="col-xs-4">
 		<div class="row">
 			<div class="col-xs-12">
-				<select class="form-control" ng-model="builder.filterElement" ng-options="element.value as element.name for element in builder.elements" ng-change="builder.elementChange()"></select>
-				<input class="form-control" type="text" placeholder="Search" ng-model="builder.searchText" ng-change="builder.searchChange()">
+				<div class="form-group">
+					<select class="form-control" ng-model="builder.filterElement" ng-options="element.value as element.name for element in builder.elements" ng-change="builder.elementChange()"></select>
+				</div>
+				<div class="form-group">
+					<input class="form-control" type="text" placeholder="Search" ng-model="builder.searchText" ng-change="builder.searchChange()">
+				</div>
 			</div>
 		</div>
 		<div class="row">
@@ -19,15 +23,17 @@
 			</div>
 		</div>
 	</div>
-	<div class="col-xs-8">
+	<div class="col-xs-6">
 		<div class="row">
 			<div class="col-xs-12">
-				<input class="form-control" type="text" ng-model="builder.deck.name" ng-focus="builder.markText($event)">
+				<div class="form-group">
+					<input class="form-control" type="text" ng-model="builder.deck.name" ng-focus="builder.markText($event)">
+				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-xs-12">
-				<img class="deck-card" ng-src="{{'assets/img/' + card.code + '.png'}}" width="90px" alt="" ng-repeat="card in builder.deck.cards" ng-click="builder.deckRemove($index)">
+				<img class="deck-card" ng-src="{{'assets/img/' + card.code + '.png'}}" width="90px" ng-repeat="card in builder.deck.cards" ng-click="builder.deckRemove($index)">
 			</div>
 		</div>
 		<div class="row">
@@ -38,6 +44,18 @@
 					<button class="btn btn-link" ng-click="builder.removeDeck(name)"><span class="fa fa-remove"></span></button>
 				</p>
 			</div>
+		</div>
+	</div>
+	<div class="col-xs-2">
+		<div class="form-group">
+			<label>Import Code:</label>
+			<input class="form-control" type="input" ng-model="builder.importString" ng-focus="builder.markText($event)">
+			<p ng-show="builder.importError">{{builder.importErrorMessage}}</p>
+		</div>
+		<button class="btn btn-default" ng-click="builder.importDeck(builder.importString)">Import</button>
+		<div class="form-group">
+			<label>Deck Code:</label>
+			<input class="form-control" type="input" readonly="" ng-model="builder.exportString" ng-focus="builder.markText($event)">
 		</div>
 	</div>
 </div>
