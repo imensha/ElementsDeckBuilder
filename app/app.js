@@ -18,3 +18,4 @@ angular.module("deckBuilderApp").controller("BuilderCtrl", BuilderController);
 angular.module("deckBuilderApp").factory("Cards", CardService);
 angular.module("deckBuilderApp").factory("Elements", ElementService);
 angular.module("deckBuilderApp").service("DeckStore", DeckStoreService);
+angular.module("deckBuilderApp").service("Deck", DeckService);
