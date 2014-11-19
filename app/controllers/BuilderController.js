@@ -5,7 +5,8 @@ function BuilderController($animate, $timeout, $filter, $scope, Cards, Deck, Ele
 	this.filteredCards;
 	this.deck = {
 		name: "untitled deck",
-		cards: []
+		cards: [],
+		mark: this.elements[2]
 	};
 	this.filterElement = this.elements[0].value;
 	this.searchText = "";
@@ -19,6 +20,11 @@ function BuilderController($animate, $timeout, $filter, $scope, Cards, Deck, Ele
 	}
 	this.deckEmpty = function() {
 		this.deck.cards = [];
+	};
+
+	this.updateMark = function(element) {
+		this.deck.mark = element;
+		this.exportDeck();
 	};
 
 	$scope.$watch((function() {

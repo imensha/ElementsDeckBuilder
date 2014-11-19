@@ -23,11 +23,24 @@
 			</div>
 		</div>
 	</div>
+
 	<div class="col-xs-6">
 		<div class="row">
 			<div class="col-xs-12">
 				<div class="form-group">
-					<input class="form-control" type="text" ng-model="builder.deck.name" ng-focus="builder.markText($event)">
+					<input id="deck-name" class="form-control" type="text" ng-model="builder.deck.name" ng-focus="builder.markText($event)">
+					<div id="mark-select" class="dropdown pull-right">
+						<button class="btn btn-default dropdown-toggle">
+							<img width="24px" src="assets/img/elements/{{builder.deck.mark.name.toLowerCase()}}120x120.png">
+						</button>
+						<ul class="dropdown-menu">
+							<li ng-repeat="element in builder.elements | filter : {hasImage: true}">
+								<a href="" ng-click="builder.updateMark(element)">
+									<img width="24px" src="assets/img/elements/{{element.name.toLowerCase()}}120x120.png">
+								</a>
+							</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -46,6 +59,7 @@
 			</div>
 		</div>
 	</div>
+
 	<div class="col-xs-2">
 		<div class="form-group">
 			<label>Import Code:</label>

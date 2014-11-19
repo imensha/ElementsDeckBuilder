@@ -25,3 +25,12 @@
 	-ms-transition: all 0.1s ease; /* Opera */
 	transition: all 0.1s ease;
 }
+
+#deck-name {
+	display: inline;
+	width: 90%;
+}
+
+.dropdown#mark-select ul {
+	min-width: 0px;
+}
